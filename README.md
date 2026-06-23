@@ -3,7 +3,7 @@
 <p align="center">
   <b>Cybersecurity Engineer · Full-Stack Developer · AI Builder</b><br>
   Integrated B.Tech–M.Tech @ National Forensic Sciences University· 8.8 CGPA<br>
-  Kerala, India · Open to remote & relocation
+  India · Open to remote & relocation
 </p>
 
 <p align="center">
