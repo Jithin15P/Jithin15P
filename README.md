@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jithin Lakshman P 👋
 
-<!--
-**Jithin15P/Jithin15P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated B.Tech–M.Tech in CS (Cybersecurity) @ NFSU | 8.8 CGPA  
+🏆 Hackathon Finalist (Top 4) | TryHackMe Top 20% Global  
 
-Here are some ideas to get you started:
+## 🛠️ What I build
+- AI-powered platforms (LangChain, Gemini, React)
+- Secure full-stack applications (MERN stack)
+- Cybersecurity tools & OT/ICS security assessments
+- 3D web experiences (Three.js, WebGL, GLSL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Security
+- Penetration Testing | OT/ICS Security | GRC | Digital Forensics
+- TryHackMe: Top 20% globally
+- EC-Council | AWS | Cisco certified
+
+## 📫 Connect
+- LinkedIn: linkedin.com/in/jithin-lakshman-p
+- Email: jithinlakshmanp@gmail.com
