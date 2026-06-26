@@ -22,7 +22,7 @@
 
 ### 🔐 Cybersecurity
 - OT/ICS Security · SCADA Threat Modelling · IEC 62443
-- TryHackMe **Top 20% globally**
+- TryHackMe **Top 9% globally**
 - EC-Council · AWS · Cisco certified
 
  
