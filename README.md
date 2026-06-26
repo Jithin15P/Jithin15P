@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/Offender">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%2020%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+    <img src="https://img.shields.io/badge/TryHackMe-Top%209%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
   <a href="mailto:jithinlakshmanp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
