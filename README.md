@@ -42,7 +42,7 @@
 |---|---|
 | 🥇 Hackathon Finalist | RegeneraX — Top 4, national level |
 | 📡 OT Security Training | NFSU Centre of Excellence |
-| 🎯 TryHackMe | Top 20% globally |
+| 🎯 TryHackMe | Top 9% globally |
 
 ### 📊 GitHub Stats
 <p align="center">
